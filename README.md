@@ -15,4 +15,4 @@ git clone https://github.com/qwnim2/React-Practice.git
 yarn start
 ```
 
-![alt text](https://github.com/qwnim2/React-Practice/blob//Screenshot.png?raw=true)
+![Demo](https://github.com/qwnim2/React-Practice/blob/master/Screenshot.png)
