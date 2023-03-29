@@ -1,5 +1,5 @@
 # ReactJS Practice
-This React.js application is my practice for the web developing course
+This React.js application was my practice for the web developing course
 
 
 
